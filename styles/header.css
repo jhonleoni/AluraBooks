@@ -7,6 +7,7 @@
     display: inline-block;
 }
 
+
 .cabecalho {
     background-color: var(--branco);
     display: flex;
