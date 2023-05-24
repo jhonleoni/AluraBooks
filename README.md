@@ -8,4 +8,4 @@
 * NodeJS
 
 ## Screenshots
-![Screenshot da tela inicial do AluraPlay](https://ibb.co/1LG9Yrr)
+![Screenshot da tela inicial do AluraPlay](https://i.ibb.co/s29FpKK/Screenshot-1.png)
