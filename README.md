@@ -5,7 +5,7 @@
 * HTML
 * CSS
 * Javascript
-* NodeJS
+* API para buscar CEP
 
 ## Screenshots
 ![Screenshot da tela inicial do AluraPlay](https://i.ibb.co/s29FpKK/Screenshot-1.png)
