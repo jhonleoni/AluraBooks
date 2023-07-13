@@ -1,5 +1,5 @@
 # AluraBooks
- Loja de livros da alura
+ Loja online de livros
 
 ## Tecnologias utilizadas no projeto
 * HTML
