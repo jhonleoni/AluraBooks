@@ -1,6 +1,8 @@
 # AluraBooks
  Loja online de livros
 
+ Nesse projeto pude praticar muito CSS e conceitos de responsividade e consumo de dados de API
+
 ## Tecnologias utilizadas no projeto
 * HTML
 * CSS
